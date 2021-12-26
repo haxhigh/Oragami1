@@ -1,0 +1,16 @@
+.oragami{
+    border: 10px ridge purple;
+}
+.chamelon{
+    border:5px solid orange;
+}
+
+.Camel{
+    border:5px solid orange ;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: cyan;
+}
